@@ -1,4 +1,4 @@
-# ACOE: Adversarial Constrained Optimization for Robust RL
+# ACOE: Adversarial Counterfactual Error
 
 This repository contains code for training and evaluating robust reinforcement learning agents using Adversarial Counterfactual Error (ACoE) from our paper: On Minimizing Adversarial Counterfactual Error in Adversarial Reinforcement Learning. 
 
